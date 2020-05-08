@@ -29,5 +29,7 @@ include(
         ":kdb:serializer:kodein-db-serializer-kotlinx",
         ":kdb:serializer:kodein-db-serializer-kryo-jvm",
 
+        ":plugin:kodein-db-plugin-fts",
+
         ""
 )
